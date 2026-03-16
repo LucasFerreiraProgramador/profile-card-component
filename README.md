@@ -1,26 +1,32 @@
-Profile Card Component 👤
+# Profile Card Component
 
-Bem-vindo! 👋  
-Obrigado por conferir este projeto.
+Um componente de cartão de perfil desenvolvido com foco em organização de layout, hierarquia visual e responsividade utilizando HTML e CSS.  
+O projeto apresenta informações de perfil de forma clara e estruturada, seguindo um layout moderno e equilibrado.
 
-Este projeto foi desenvolvido por **Lucas Ferreira** em **2026**, como parte dos estudos em **Análise e Desenvolvimento de Sistemas**.
+🔗 Acesse o projeto:  
+https://lucasferreiraprogramador.github.io/profile-card-component/
 
-🧩 Sobre o projeto  
-Componente de interface desenvolvido com HTML e CSS para exibição de um cartão de perfil, com foco em layout responsivo e organização visual.
+---
 
-🎯 Funcionalidades  
-- Exibição de informações de perfil  
-- Layout responsivo  
-- Design moderno e organizado  
+## Funcionalidades
 
-🛠 Tecnologias utilizadas  
-- HTML5  
-- CSS3  
+- Layout estruturado em card  
+- Organização clara das informações  
+- Boa hierarquia visual  
+- Responsividade para diferentes telas  
+- Interface simples e objetiva  
 
-🚀 Execução  
-Basta abrir o arquivo `index.html` em qualquer navegador moderno.
+---
 
-📝 Licença  
-Este projeto está sob licença MIT.
+## Tecnologias Utilizadas
 
-✨ Projeto desenvolvido para fins educacionais e portfólio.
+- HTML5 — estrutura semântica  
+- CSS3 — layout, responsividade e estilos  
+
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
+
+## 📄 Licença
+Este projeto foi desenvolvido para fins de estudo e prática de desenvolvimento Front-End.
